@@ -23,11 +23,11 @@
 
 | # | Problem | Difficulty | Pattern | Note |
 |---|---------|-----------|---------|------|
-| 1 | - [ ] [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | HashMap | |
-| 2 | - [ ] [Best Time to Buy & Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Greedy / Single pass | |
-| 3 | - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | HashSet | |
-| 4 | - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Prefix & Suffix product | |
-| 5 | - [ ] [Maximum Subarray (Kadane's)](https://leetcode.com/problems/maximum-subarray/) | Medium | Kadane's algorithm | |
+| 1 | - [X] [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | HashMap | | 
+| 2 | - [X] [Best Time to Buy & Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Greedy / Single pass | |
+| 3 | - [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | HashSet | |
+| 4 | - [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Prefix & Suffix product | |
+| 5 | - [X] [Maximum Subarray (Kadane's)](https://leetcode.com/problems/maximum-subarray/) | Medium | Kadane's algorithm | |
 | 6 | - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | DP / track min & max | |
 | 7 | - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | Binary search | |
 | 8 | - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary search | |
